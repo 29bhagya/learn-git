@@ -1,5 +1,5 @@
 Bhagya Prasan
 
-'''Python
+```Python
 print("Hello world")
-'''
+```
